@@ -1,0 +1,2070 @@
+#:schema ../../wallman/schema/wallpapers.schema.json
+
+# Fork of the ML4W wallpaper collection (https://github.com/mylinuxforwork/wallpaper), a git submodule of the main repo.
+# The repository LICENSE is GPL-2.0, but the README says the images were gathered from r/wallpapers, 4kwallpapers.com and
+# wallsbyjfl: their authors keep their rights, and wallsbyjfl's images are AI-generated (Midjourney).
+
+[collection]
+medium = "ml4w"
+movement = "ml4w"
+count = 206
+[[wallpaper]]
+file = "3d-tech.jpg"
+title = "3d tech"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/3d-tech.jpg"
+sha256 = "708146b7976c203e00b1720aea763a0eac305a684ee08c899a9110b67e5dd2cd"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "Desert-With-Mountains-Moon.jpg"
+title = "Desert With Mountains Moon"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/Desert-With-Mountains-Moon.jpg"
+sha256 = "aaeebccb9cea3866559c27b69eee15336ee0fa057ef31f24a33905b752946450"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "abstract-dark.png"
+title = "Abstract dark"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/abstract-dark.png"
+sha256 = "294ad54c6f52b4c75885fe913fb58a4f3583f284b597db76deb9af91c475516b"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "adwaita-l.jpg"
+title = "Adwaita l"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/adwaita-l.jpg"
+sha256 = "4cf284fad5c1846ea904b9bb4c089dda16e7d831c7876a13269f9f67b880ffd4"
+resolution = [4096, 4096]
+[[wallpaper]]
+file = "aesthetic_deer.jpg"
+title = "Aesthetic deer"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/aesthetic_deer.jpg"
+sha256 = "8e6f1209a237cd313d2d964cfa0b3b5c4c64937f1f21cd3c7a634fbc7b28c45f"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "african-light.jpg"
+title = "African light"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/african-light.jpg"
+sha256 = "4dd05b68e072f6d6787239b17f0fe765226e9d2b66433b90094afc5ec32e4f86"
+resolution = [4000, 2242]
+[[wallpaper]]
+file = "anime2.jpg"
+title = "Anime2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/anime2.jpg"
+sha256 = "6874688f719b39c1cbe2842a04f251fc7e3aa1063fbd8a20a94c64665a85d76a"
+resolution = [4096, 1728]
+[[wallpaper]]
+file = "anime3.png"
+title = "Anime3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/anime3.png"
+sha256 = "38b29d528d360df39bc3c2027abe89951f7124cc6850dd34e78f8dcf4ac3ef28"
+resolution = [5118, 2878]
+[[wallpaper]]
+file = "apple-dark.jpg"
+title = "Apple dark"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/apple-dark.jpg"
+sha256 = "272742cca4e09116751fee5cd5ba5c65b97a208ac378936f8b8f782eb23d7e98"
+resolution = [6016, 6016]
+[[wallpaper]]
+file = "apple-light.jpg"
+title = "Apple light"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/apple-light.jpg"
+sha256 = "ab4b36106c664d049e3cc6c467f497531ad72adb648094740d352440056c7193"
+resolution = [6016, 6016]
+[[wallpaper]]
+file = "apple-waves1.jpg"
+title = "Apple waves1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/apple-waves1.jpg"
+sha256 = "07903ab150632f30b378ac9eafdcd8bdec3995fd67318ef62041867c282be993"
+resolution = [6016, 6016]
+[[wallpaper]]
+file = "arch1.png"
+title = "Arch1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/arch1.png"
+sha256 = "c52d2a2c07b7f3000d2f47484a199538a7a4758204148f7148900d2997de5f44"
+resolution = [4096, 2160]
+[[wallpaper]]
+file = "arch2.jpg"
+title = "Arch2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/arch2.jpg"
+sha256 = "83c6d22658689873939c6846293c1b60112addec3990d331e64b0a8b5bf7e582"
+resolution = [6000, 3375]
+[[wallpaper]]
+file = "arch3.jpg"
+title = "Arch3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/arch3.jpg"
+sha256 = "abcdcfc0b7727a1c0befeeb1868849f5da9ad0663cb09c85c2a0f66db35f05af"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "astronaut.png"
+title = "Astronaut"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/astronaut.png"
+sha256 = "bfdcecd6d9c90c5d0c1bb1471b73d113726fd5d60f8528398ed67b7a4694b553"
+resolution = [7680, 4320]
+[[wallpaper]]
+file = "astronaut2.png"
+title = "Astronaut2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/astronaut2.png"
+sha256 = "c76136e0a03c12296fda9170d8282c908cf594bdac3fd5aac2d6fa2b6fc7b561"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "astronaut_jellyfish.jpg"
+title = "Astronaut jellyfish"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/astronaut_jellyfish.jpg"
+sha256 = "8b7a487c33b3e485b9da34f838a418e3705ea1692c1e88f0e5ca813b61feade1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "big-sur-6.jpg"
+title = "Big sur 6"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/big-sur-6.jpg"
+sha256 = "5a2a1991df790afb968dd8c25624a997d8ada8b10862171087f34e3bc6aa3f9f"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "black-whole.jpg"
+title = "Black whole"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/black-whole.jpg"
+sha256 = "bd3e3addb698f65c603535e7793f83b84237be7caf990263c4d78c797e18af6c"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "black-whole2.png"
+title = "Black whole2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/black-whole2.png"
+sha256 = "cf1869403cf711b3b747fb242a8f69cdd017ef13e97e6a231f736690700f4557"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "blackhole.jpg"
+title = "Blackhole"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/blackhole.jpg"
+sha256 = "2dcda96569df57106066c738e397c5ddcdb6bac40804dd785b40eed7b032cbc4"
+resolution = [3200, 1800]
+[[wallpaper]]
+file = "calder-moore-aliencrack-01-copy.jpg"
+title = "Calder moore aliencrack 01 copy"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/calder-moore-aliencrack-01-copy.jpg"
+sha256 = "8bd74e73964da3fbac553b1d0e5f59103f401103f5b0919e113a95fb9ef9b3a9"
+resolution = [2567, 1370]
+[[wallpaper]]
+file = "chromatic-waves.png"
+title = "Chromatic waves"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/chromatic-waves.png"
+sha256 = "14a02c9feeb2ce0b8f3d291b2d4bbae66e2999e0a7bf67a4b41d7237b652a344"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "copper_mountain.jpg"
+title = "Copper mountain"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/copper_mountain.jpg"
+sha256 = "fa9ba708ad7bdedf130de0d31c8bfc1c5dd0a381c180a3abd6339c4a4bfa51ff"
+resolution = [2975, 1838]
+[[wallpaper]]
+file = "deer_and_sunset.jpg"
+title = "Deer and sunset"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/deer_and_sunset.jpg"
+sha256 = "0ee90762fae91cdadffab5129796e5f07724318b13abc1793b56488a605c10ed"
+resolution = [3438, 1367]
+[[wallpaper]]
+file = "deer_in_pine_forest.jpg"
+title = "Deer in pine forest"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/deer_in_pine_forest.jpg"
+sha256 = "5c12ce87c52bdbfe4b011f846a82a2fc8a9ac94098bd63ab3d371f7e727792ac"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "default.jpg"
+title = "Default"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/default.jpg"
+sha256 = "afc31578e6d38cb685ab3274ca37a242d1e7dc6af3d0870229052d6f9250de37"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "depechemode-violator.png"
+title = "Depechemode violator"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/depechemode-violator.png"
+sha256 = "265591e7ee894064d1d61bde64305efe609a5e2791e455d7c69584c406f1cf5b"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "desert-red-sun.jpg"
+title = "Desert red sun"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/desert-red-sun.jpg"
+sha256 = "f5461ea8969b01e94b40db943ae27720a836004f6bbd6bf85e06307f2bac35f5"
+resolution = [2900, 1625]
+[[wallpaper]]
+file = "dunes-sun.jpg"
+title = "Dunes sun"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/dunes-sun.jpg"
+sha256 = "37e176da213d873d033fd05197085269d725b3b655a65fdbe50427af0d4745f5"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "emergence.jpg"
+title = "Emergence"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/emergence.jpg"
+sha256 = "1ac3b4f1512e639f3c04df1d98276ee5224a6c18693d2eebef4c3bda676f0d5a"
+resolution = [2912, 1632]
+[[wallpaper]]
+file = "escape_velocity.jpg"
+title = "Escape velocity"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/escape_velocity.jpg"
+sha256 = "f6935a3b4412f11763779e6f59fc8b791b4c026cfa9f4e0d5a31972dd73ca708"
+resolution = [4096, 1742]
+[[wallpaper]]
+file = "explorer_green_day.jpg"
+title = "Explorer green day"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/explorer_green_day.jpg"
+sha256 = "2aae1a777b2ba2af26a31233cc7a4be62dae90a018b92d27c5ba4c7d7180e0b5"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "explorer_orange_sunset.jpg"
+title = "Explorer orange sunset"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/explorer_orange_sunset.jpg"
+sha256 = "83ef787d03bf9d0d88072ede015251e96a7b469ff16a55d213590d0a934b4ae4"
+resolution = [2560, 1600]
+[[wallpaper]]
+file = "frequency.jpg"
+title = "Frequency"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/frequency.jpg"
+sha256 = "506ddcda37e4d4a02236cbc0105ee83fcf8f99a073df340b4661d51ab206ae5d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "geometric-horizons.png"
+title = "Geometric horizons"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/geometric-horizons.png"
+sha256 = "940784dda06f3e995437c11a1e74c2fb10d32fca22f7268059bc8d91d51dcbac"
+resolution = [1920, 1280]
+[[wallpaper]]
+file = "golden-horizon.jpg"
+title = "Golden horizon"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/golden-horizon.jpg"
+sha256 = "4aa9e9b663a97b8cadb3979d42fcf4730fe88d2782a79d4673fec439516d4d06"
+resolution = [3200, 1793]
+[[wallpaper]]
+file = "green_sea.jpg"
+title = "Green sea"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/green_sea.jpg"
+sha256 = "cbda0e0ed3200dfe21f02b3a4b880db7eba8a55723937536c6b2ef7aeadadcdd"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "highlands-grid.jpg"
+title = "Highlands grid"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/highlands-grid.jpg"
+sha256 = "3f24cf559f42c82fcca34f5de8af615a0a04e84238fff52b0fa3082dfbed156a"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "ireland-hills.jpg"
+title = "Ireland hills"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/ireland-hills.jpg"
+sha256 = "b58f28f7e5c6c7024337a3b4861e18327e5bcb7c80619b72ebd4bf42643ee800"
+resolution = [2912, 1632]
+[[wallpaper]]
+file = "italy.png"
+title = "Italy"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/italy.png"
+sha256 = "419bb5a921470f1510fd8a6c0dc08b6f6ffe8eb0ff08daeb0c32987fea65db70"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "lake-mcdonald.jpg"
+title = "Lake mcdonald"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/lake-mcdonald.jpg"
+sha256 = "29ba58f9fdbaf61f3ccef6acaaa9b1338a101e0e98cc70055dd4a3b492d5165a"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "lion_galaxy_purple.jpg"
+title = "Lion galaxy purple"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/lion_galaxy_purple.jpg"
+sha256 = "057ae46e787c4191bd6350c581d2078b2e77e423ddbdc072e0db6befbe43188e"
+resolution = [3840, 2400]
+[[wallpaper]]
+file = "marina-bay-sands.png"
+title = "Marina bay sands"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/marina-bay-sands.png"
+sha256 = "a95b0248095407ef062c39a57d210e679fc53681483cfd380610423a44322a48"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "minimal-boxes.jpg"
+title = "Minimal boxes"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/minimal-boxes.jpg"
+sha256 = "be599b9611c377dbfe3e1f6f8ee1b96ee731f07d9b2ecd4cfd0d6b65693d6765"
+resolution = [3413, 1920]
+[[wallpaper]]
+file = "miracleOS_light.jpg"
+title = "MiracleOS light"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/miracleOS_light.jpg"
+sha256 = "e6e4e7ae8d7bfc148c9912871f59fa67cbec620e1b4db475da5fa40cb66fc88d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mojave-dark-mode.png"
+title = "Mojave dark mode"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mojave-dark-mode.png"
+sha256 = "3caa4e4d9f0054fcc89ea7d684898c9f99bc056a1a4594979b6c6ca6f028361e"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mountain-winter-sun.jpg"
+title = "Mountain winter sun"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-winter-sun.jpg"
+sha256 = "d027d0e48aabac856c690865095ddb000df970a425e07f64df7e1b1ea50338e4"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "mountain.jpg"
+title = "Mountain"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain.jpg"
+sha256 = "fb9a2d1251844b2cee4099615312d1a9347cddbf772c4d4dc72c43c2f86f954c"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "mountains-with-sky.jpg"
+title = "Mountains with sky"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountains-with-sky.jpg"
+sha256 = "33651748afea3f69aa9dec56ec79de7d4967eac06ad98940aa19790cfc5ab066"
+resolution = [6000, 4000]
+[[wallpaper]]
+file = "neural.jpg"
+title = "Neural"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/neural.jpg"
+sha256 = "b669a8497d08c88a6311b3cf1fec55e5475026cb75ecff947fd6c5ac2d82de55"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "orange-art.jpg"
+title = "Orange art"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/orange-art.jpg"
+sha256 = "79764ee716f7aa38e4b5c2bd0da7cbe5c8e8e8f928e4eda86722f9efed78c503"
+resolution = [3400, 2024]
+[[wallpaper]]
+file = "orange-tower.jpg"
+title = "Orange tower"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/orange-tower.jpg"
+sha256 = "9dbb6535791b5c8a69579856c62f6cd5b35131d52a64b5d1885b13b18525afa3"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "pexels-robert-clark.jpg"
+title = "Pexels robert clark"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/pexels-robert-clark.jpg"
+sha256 = "ddaaae3748aa5b6046c6e77cdf338186243a9e38ce66b4e4c50935c8be806ffd"
+resolution = [4936, 3290]
+[[wallpaper]]
+file = "plasmawaves.png"
+title = "Plasmawaves"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/plasmawaves.png"
+sha256 = "7179c0906c0f44485fe8dfa38bafc2154467b9e4b3439c5383b39a15866d8ef3"
+resolution = [5120, 2880]
+[[wallpaper]]
+file = "raw-expression.jpg"
+title = "Raw expression"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/raw-expression.jpg"
+sha256 = "98f6d1c266e455a0a6cbed17260e526db00bc3c0e867214bc81e09d54351f406"
+resolution = [2900, 1625]
+[[wallpaper]]
+file = "red-and-blue-pillars.jpg"
+title = "Red and blue pillars"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/red-and-blue-pillars.jpg"
+sha256 = "3b3c19d979319b6e58d3a3aefe11e988f4bdccf626060c889063ec95c31dcd86"
+resolution = [5696, 3392]
+[[wallpaper]]
+file = "river_to_castle_theme_blue.jpg"
+title = "River to castle theme blue"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/river_to_castle_theme_blue.jpg"
+sha256 = "648c8c98fcc8bff33c0744cb7f9ff5d4c633b8461a4d35a128eb6d6ba6069e3a"
+resolution = [5184, 2920]
+[[wallpaper]]
+file = "rocket_launch.jpg"
+title = "Rocket launch"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/rocket_launch.jpg"
+sha256 = "b1e62f6fc021359acb60b31729733b6dc0f8bb726dd60940445f7e46abf72b9b"
+resolution = [5160, 2160]
+[[wallpaper]]
+file = "rocky_land.jpg"
+title = "Rocky land"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/rocky_land.jpg"
+sha256 = "05c944d0dd99346c6336cb74eaaff330c430174a7d8e858255db9301465095be"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sand-dunes.jpg"
+title = "Sand dunes"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sand-dunes.jpg"
+sha256 = "62ee97e7feea5da58720e9e3ac25a9cad376efa2334225c07e284ec8b125ec20"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "shard-window-dark.png"
+title = "Shard window dark"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/shard-window-dark.png"
+sha256 = "358b438be18ba81e0203ef934a84147bdd3f09a4d2e9a0f8e719c467c6f27918"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "space-city.jpg"
+title = "Space city"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/space-city.jpg"
+sha256 = "5d5891a2d62d8ba4877ee4b2267637a813e1127fa03453795cf05120fdf1e2be"
+resolution = [5120, 2880]
+[[wallpaper]]
+file = "stars-as-minimal.jpg"
+title = "Stars as minimal"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/stars-as-minimal.jpg"
+sha256 = "e6aea7a1a214065e16ac098bdf76c13783743b955f2e4eb87f9217ef21b6d01f"
+resolution = [3840, 2400]
+[[wallpaper]]
+file = "street1.jpg"
+title = "Street1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/street1.jpg"
+sha256 = "29d6731cffbbf0119c921278a4ffd0ca02feb17d406e7b4cb810a90e17378b47"
+resolution = [3840, 1875]
+[[wallpaper]]
+file = "sunset-lookout.jpg"
+title = "Sunset lookout"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset-lookout.jpg"
+sha256 = "18318dea746fd9d2cc976bf80f9fd5a932135eacb29d4cb3a9356c410bf36562"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sunset-scenery-minimalist.jpg"
+title = "Sunset scenery minimalist"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset-scenery-minimalist.jpg"
+sha256 = "661ca49116ed05529b24b6d4c481d99e1e3923b61ce33d5f2ac8964aa9073841"
+resolution = [2166, 1218]
+[[wallpaper]]
+file = "sunset_layers.png"
+title = "Sunset layers"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset_layers.png"
+sha256 = "8828ae4fc54ea339ee13be08e8003bfdb39633a3ac469a64f4421048962fada9"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "suzume1.jpg"
+title = "Suzume1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/suzume1.jpg"
+sha256 = "e067f622f7a143d2570f593381844d159662d7b516c7efb4f6d534e54ed0ed3a"
+resolution = [8192, 4320]
+[[wallpaper]]
+file = "the-last-light.png"
+title = "The last light"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/the-last-light.png"
+sha256 = "a24ef91a1f55d06c980f5202d953f036ffd455aa530168ca6e9861b5e67af936"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "the-snap-hunt-camping.png"
+title = "The snap hunt camping"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/the-snap-hunt-camping.png"
+sha256 = "a5fd41032905032b08c713847db813825e23394c755b4a58cc0be6a4dec8fae9"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "tower-night.png"
+title = "Tower night"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tower-night.png"
+sha256 = "9796d1d99929be1367848f5c9deede9fbd84f57bc4379e0601fe2102348f62f9"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "tron-ares.jpg"
+title = "Tron ares"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tron-ares.jpg"
+sha256 = "3e457dcd5fe2afbc688ec5d8f6afb1900df58905e5d3612511688bc480df9985"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "tron_legacy1.jpg"
+title = "Tron legacy1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tron_legacy1.jpg"
+sha256 = "8282bd41ece07459d281f3cc17f018fc55595d91bc0f1319a6ff59801108961b"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "tron_legacy2.jpg"
+title = "Tron legacy2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tron_legacy2.jpg"
+sha256 = "3eee49fa444abbcf940c6f28fe64a21c8e65e7e18b0f986962605452a2c9cfbe"
+resolution = [5900, 3318]
+[[wallpaper]]
+file = "tron_legacy4.jpg"
+title = "Tron legacy4"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tron_legacy4.jpg"
+sha256 = "028a2fc42d3a0f1f2137b73e00d954095ad95281f90a6520721dd5f754d4bb17"
+resolution = [2560, 1600]
+[[wallpaper]]
+file = "tron_legacy6.jpg"
+title = "Tron legacy6"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tron_legacy6.jpg"
+sha256 = "3c515dcacd493cd3c50e3c086ad9199b581ad481b4c090a8b78aa6215aceeb6c"
+resolution = [2880, 1800]
+[[wallpaper]]
+file = "wallhaven1.jpg"
+title = "Wallhaven1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/wallhaven1.jpg"
+sha256 = "32272059ac43ce3a565abb964841ceab96580d924f7541dcc27d5ef5779a2384"
+resolution = [2500, 1667]
+[[wallpaper]]
+file = "wallhaven3.jpg"
+title = "Wallhaven3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/wallhaven3.jpg"
+sha256 = "f689c4f5c373d6a0807625b554ee32fda30179843d99ca6fea87bfe9e2e37727"
+resolution = [1920, 1200]
+[[wallpaper]]
+file = "wallhaven4.jpg"
+title = "Wallhaven4"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/wallhaven4.jpg"
+sha256 = "35194d0b6749d340718ada2988b8e35c4e6b89f30a1f4d33137c26144dcd25a1"
+resolution = [5472, 3648]
+[[wallpaper]]
+file = "watchtower-mountains-and-forests.jpg"
+title = "Watchtower mountains and forests"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/watchtower-mountains-and-forests.jpg"
+sha256 = "14fbca0fa05343b2ea3ba7382454ccc038362764f257b015c35e3262310345fb"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "Fantasy-Autumn.png"
+title = "Fantasy Autumn"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/Fantasy-Autumn.png"
+sha256 = "414cd4e63199954f519663a19160433524278b910585ff38c756c4ac7a724fba"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "Fantasy-Landscape3.png"
+title = "Fantasy Landscape3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/Fantasy-Landscape3.png"
+sha256 = "971a2ba0496975b967625dae7f8ed45d6c23dc3f127bfe7d794f5a28cc8ef3b4"
+resolution = [3831, 2160]
+[[wallpaper]]
+file = "Nocturne-of-Steel-and-Glass.png"
+title = "Nocturne of Steel and Glass"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/Nocturne-of-Steel-and-Glass.png"
+sha256 = "6365d79f06bdb375a244ccfdce12f34acb3ee475ce33aba161d00f1667e62981"
+resolution = [2560, 1600]
+[[wallpaper]]
+file = "Space-Nebula.png"
+title = "Space Nebula"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/Space-Nebula.png"
+sha256 = "b6f231c0457933f1292fd30016ade3af07631e7a8892ad6a66cf7675f7444084"
+resolution = [5824, 3264]
+[[wallpaper]]
+file = "amazing-nature-mountain.jpg"
+title = "Amazing nature mountain"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/amazing-nature-mountain.jpg"
+sha256 = "fed80c897ae78009ce0270ae1bac726a00ff07947f6a08411f46ecdf0ec9a1ff"
+resolution = [5696, 3392]
+[[wallpaper]]
+file = "amber-island.jpg"
+title = "Amber island"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/amber-island.jpg"
+sha256 = "ded37a6befdad7d9bf9f34fa40e712a6dc3bb26a75b26ca5575fc396d1d5232a"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "anime1.png"
+title = "Anime1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/anime1.png"
+sha256 = "bbcf378735f7492494ae980a84dd2a5c14979f3fdda39474f9b2479b973730ea"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "apex_octane.jpg"
+title = "Apex octane"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/apex_octane.jpg"
+sha256 = "b7d61e8977353c6d5e7cae1a3ac8d9319be7939c9304b35d97afbe6eceaacd27"
+resolution = [5120, 2880]
+[[wallpaper]]
+file = "autumns.hues.png"
+title = "Autumns.hues"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/autumns.hues.png"
+sha256 = "6a9f9949c3e7236fc638d4725beffc5da4285fa2f50ddcd7b791477bc957dfb9"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "bloodrock-steppes.png"
+title = "Bloodrock steppes"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/bloodrock-steppes.png"
+sha256 = "0e551597d969255510b08cb7958e9fb3e9ce5b0f25cb1a3253c46a3bdd6acdcb"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "breathtaking-mountain-view.jpg"
+title = "Breathtaking mountain view"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/breathtaking-mountain-view.jpg"
+sha256 = "a87033d0d27816fe98fec0ad39eaffdb9e975c27b01daaeb32ecabdc32ea259b"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "building_cyber.jpg"
+title = "Building cyber"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/building_cyber.jpg"
+sha256 = "6a8aaa15fb5231281b4dab63c06d8913b4bafcf53ed234813ad9c6c5293c03f6"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "car_on_mars.jpg"
+title = "Car on mars"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/car_on_mars.jpg"
+sha256 = "4beb6e378c463755c342cf9bc1d04ab2f74c5fd1552f9355bc95b84d1c3cd433"
+resolution = [5824, 3264]
+[[wallpaper]]
+file = "catching-the-desert.jpeg"
+title = "Catching the desert"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/catching-the-desert.jpeg"
+sha256 = "d7baf0c5dda17bb32390fc74f49214321c5331ae7649eefdc76b6138d579d5cd"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "city-from-above.jpg"
+title = "City from above"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/city-from-above.jpg"
+sha256 = "da7197028b8ee0f6366d053f03291cc2cb1ea40ce814a1c14504aaa4438bf5ec"
+resolution = [2560, 1709]
+[[wallpaper]]
+file = "city-rain.png"
+title = "City rain"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/city-rain.png"
+sha256 = "30e01d540b4d1a80e4d9a2fa1f19680ea87041576a42cbc327b57a66cff8c49d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "city-skyline.jpg"
+title = "City skyline"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/city-skyline.jpg"
+sha256 = "6109614e2376eabe271c3cd9c8ddf5cff9b607b435bc86309489afd6b977404a"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "city-sundown.png"
+title = "City sundown"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/city-sundown.png"
+sha256 = "98e1887af6d35d81c32f822e64e1ec132ad568cc4d695a274243d1842d74455e"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "color-wall.jpg"
+title = "Color wall"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/color-wall.jpg"
+sha256 = "5e82acb2da27cf56ad6e384cbd263216b4ad166f6ddb4526a9a279c6cc0c0436"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "colored-silence.jpg"
+title = "Colored silence"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/colored-silence.jpg"
+sha256 = "561352c0a96bec2793989915b164db7fde3c2acf893542ed3cc0011eed9681f5"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "comet.jpg"
+title = "Comet"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/comet.jpg"
+sha256 = "16528a428380c5d2dc95707f08fb874ca214d2be3dde41115b65d78ee0bc37b2"
+resolution = [1920, 1081]
+[[wallpaper]]
+file = "cool-astronaut.jpg"
+title = "Cool astronaut"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/cool-astronaut.jpg"
+sha256 = "cd5c85f772c3cc806e13844cca8dc6c02faf65aedbc339e5fd82f76739ba8378"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "core_memory.jpg"
+title = "Core memory"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/core_memory.jpg"
+sha256 = "f70962440b1e8f760c43be4e6af4c97663d98627db42520d5b886f7529bed406"
+resolution = [5120, 2880]
+[[wallpaper]]
+file = "cyberpunk.png"
+title = "Cyberpunk"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/cyberpunk.png"
+sha256 = "0897340149ae121d1fd0a0f885ec847d4c3eb3969658ad802abd64c2182c458e"
+resolution = [2912, 1632]
+[[wallpaper]]
+file = "cyberpunk1.jpg"
+title = "Cyberpunk1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/cyberpunk1.jpg"
+sha256 = "ca65cb7c41adad16e54c2ea6d92a6491a3d3b68fe6d54e3011044f5d17948cc1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "cyberpunk2-drive.jpg"
+title = "Cyberpunk2 drive"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/cyberpunk2-drive.jpg"
+sha256 = "9cfe7c0a1ea54d35b21e33902fbc233e0cc7f0a825865634f60dfa0b9e339442"
+resolution = [1920, 1053]
+[[wallpaper]]
+file = "cyberpunk3-drive.jpg"
+title = "Cyberpunk3 drive"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/cyberpunk3-drive.jpg"
+sha256 = "4136d2ca8d15a6cf3051e7276f1296f0e33208bd92d69391f7840bc21cf83de0"
+resolution = [1920, 1081]
+[[wallpaper]]
+file = "dark-star.jpg"
+title = "Dark star"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/dark-star.jpg"
+sha256 = "59dc554b2fe81f79b1f89258f838315fbad79d5a71cfd1508f29c56b85acfdbb"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "dark-waves.jpg"
+title = "Dark waves"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/dark-waves.jpg"
+sha256 = "464669af3aed108f54677198ea33b5da382f9d38ca53ff282d209fbd058afbb4"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "earth-from-moon.jpg"
+title = "Earth from moon"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/earth-from-moon.jpg"
+sha256 = "21ed4cbeb40f48f70518a1f449df757cf5e8fb7febe0fda9e4da674c7bcf032a"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "enterprise-desert-crash.png"
+title = "Enterprise desert crash"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/enterprise-desert-crash.png"
+sha256 = "141dcc4d8a0c36a39630a8f506b5082f7ac829126bdd88682c89d173416745d9"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "expanse.jpg"
+title = "Expanse"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/expanse.jpg"
+sha256 = "c94c8dbbfb42fce147f513c40d1b10557fda2e49ae160f637ab4708257805f1b"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "explorer-robot.png"
+title = "Explorer robot"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/explorer-robot.png"
+sha256 = "31f198dc638d04f042e865aabe2d05de8885d85ea3f275194ffdf4219b7aaa7e"
+resolution = [4096, 2160]
+[[wallpaper]]
+file = "fall-echo-tries.png"
+title = "Fall echo tries"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/fall-echo-tries.png"
+sha256 = "85ab3c64a0674ca20450cfe9f1d42c02d40ffddea78d02227d3f504ee974b78b"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "fantasy-mountain1.jpg"
+title = "Fantasy mountain1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/fantasy-mountain1.jpg"
+sha256 = "d01f5a352e567779c9bfc8be963eebc70a50b8d5e08623906adad279f667c1c6"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "fantasy-mountain2.jpg"
+title = "Fantasy mountain2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/fantasy-mountain2.jpg"
+sha256 = "0f31b8734bb810b0cd766a5f443831d0928bd233e8b4b9c6429e90c2e9a15049"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "fantasy-mountain3.jpg"
+title = "Fantasy mountain3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/fantasy-mountain3.jpg"
+sha256 = "9ecd31861d642109f10f6403b08e59410da7735e348214b882cef7d92ac1d4b7"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "fiery-sunset-reflection.jpg"
+title = "Fiery sunset reflection"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/fiery-sunset-reflection.jpg"
+sha256 = "ef74c24fe14af5928c1890293eea270533a543780060d65a547a911c4a8a2756"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "fish_2.jpg"
+title = "Fish 2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/fish_2.jpg"
+sha256 = "641a2bec59a287e27e5de108004a739f33f84f20ef75e945f3938d8e6a77f454"
+resolution = [3840, 2400]
+[[wallpaper]]
+file = "flowers1.png"
+title = "Flowers1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/flowers1.png"
+sha256 = "072c9f9f5871cf663c241a98dfc3e628d60381d0ea8279531d4804a7ffe7d750"
+resolution = [1919, 1080]
+[[wallpaper]]
+file = "flowers2.jpg"
+title = "Flowers2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/flowers2.jpg"
+sha256 = "1c516fa1ad4d2c5ee174d2769e90327a3c6f519949053e2b2ce8a9180a560744"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "forest-landscape.jpg"
+title = "Forest landscape"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/forest-landscape.jpg"
+sha256 = "38f4ee33e80fa2950630bb6428fcdc168937eb44978342ddfd63022e7f5ab452"
+resolution = [2560, 1992]
+[[wallpaper]]
+file = "forest1.jpg"
+title = "Forest1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/forest1.jpg"
+sha256 = "4e9763f93ab314213289f4b22fcc5f11c4ad9796bf977b00a11e43a8675c1f62"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "forest2.jpg"
+title = "Forest2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/forest2.jpg"
+sha256 = "b71d25e6c265ead4de64dadfacec4b5f645dfbe5afd677127d70002ebc7ff0a1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "forest3-mononoke.png"
+title = "Forest3 mononoke"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/forest3-mononoke.png"
+sha256 = "2401aa225ee717f9f5b441e65719e6348d3030b56724e822bfe56fc0c0854876"
+resolution = [3273, 1832]
+[[wallpaper]]
+file = "forest4.png"
+title = "Forest4"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/forest4.png"
+sha256 = "a50ed3f87dcc597d8052e3098e3995c70f12d518df784a5e7554e4733057936b"
+resolution = [3840, 2400]
+[[wallpaper]]
+file = "frozen-shores-burning-sky.jpeg"
+title = "Frozen shores burning sky"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/frozen-shores-burning-sky.jpeg"
+sha256 = "10341588fce7ff7154ec75ca82de28d5f5b597827d5d0a01f49a35e8f51feaf7"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "geometric-abstract.jpg"
+title = "Geometric abstract"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/geometric-abstract.jpg"
+sha256 = "d223689f3417b9cacc6dffefb3f02b902447971ab5354a9d73311a8f74abaa70"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "glowing-green-dew.jpg"
+title = "Glowing green dew"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/glowing-green-dew.jpg"
+sha256 = "70df388ae8ce9a76197c930a6bc8f3cde149d9fb45ad67e939e90a1ed8c19e14"
+resolution = [6067, 3467]
+[[wallpaper]]
+file = "golden-hours.png"
+title = "Golden hours"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/golden-hours.png"
+sha256 = "8ddb3239800b6c3da269426560894da5eff9eeb49def45d7f9f9739a5e6d4061"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "groot_1.jpg"
+title = "Groot 1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/groot_1.jpg"
+sha256 = "3c222d7f195e60a1d508b726fc053e35317eab0c0349b3d108dbc2c8e4886302"
+resolution = [1366, 768]
+[[wallpaper]]
+file = "headphones-paint-color-splash.jpg"
+title = "Headphones paint color splash"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/headphones-paint-color-splash.jpg"
+sha256 = "1720b6b82d7e0c777c6d9cabaf90c7fc0ce9b83dabbf20d92c73e1bf1a6f0287"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "house1.png"
+title = "House1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/house1.png"
+sha256 = "9aa5054ad92394a7bb2b3c9f4a2b1e933827947b28ab7ca35a9e08684aa8a327"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "jagged-peaks.jpg"
+title = "Jagged peaks"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/jagged-peaks.jpg"
+sha256 = "3bdc5e61c637ac4f612ab0974cb843bf08102074dddb28785c7b3d435ae01ca8"
+resolution = [2902, 1632]
+[[wallpaper]]
+file = "japanese1.jpg"
+title = "Japanese1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/japanese1.jpg"
+sha256 = "0351120bc02272c2dcff4205f96638ef83a8e55fea9d44748f37b6afd42ddf82"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "japanese2.png"
+title = "Japanese2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/japanese2.png"
+sha256 = "100c947de1aa5ae36ffa5be2f4f559c8686fbf5e394bdf445a01d00c591a730d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "japanese3.jpg"
+title = "Japanese3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/japanese3.jpg"
+sha256 = "51b9ae95d54168fdc42af1e08b4910ec1d20f69bac5cbf7f34c2e8610cc50946"
+resolution = [2800, 1575]
+[[wallpaper]]
+file = "landscape-abstract-neon.jpg"
+title = "Landscape abstract neon"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/landscape-abstract-neon.jpg"
+sha256 = "ce3f6b3672e17f8e69537615bb8bef25e1f3916a623639da57fe0b843c2de15c"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "landscape.jpg"
+title = "Landscape"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/landscape.jpg"
+sha256 = "f51af31ef599411a40accc715da60bdd2a23734d0ab8ca91f83968724da1f453"
+resolution = [3840, 2400]
+[[wallpaper]]
+file = "landscape1.png"
+title = "Landscape1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/landscape1.png"
+sha256 = "428e5b2cdb1e9fe938afd04e5c7d08ad1932414cabdfc2c85127c47585219cb0"
+resolution = [4096, 2272]
+[[wallpaper]]
+file = "landscape2.jpg"
+title = "Landscape2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/landscape2.jpg"
+sha256 = "b97fa8505255e0ca1217ef8145650f4f1cc0ceb8444cd38751025f17b8208f59"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "landscape3.png"
+title = "Landscape3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/landscape3.png"
+sha256 = "bec59fb6698ec9e36b56e032752c4d6667050f04b49ff056b544002b95dce17a"
+resolution = [2912, 1632]
+[[wallpaper]]
+file = "landscape4-whisper.png"
+title = "Landscape4 whisper"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/landscape4-whisper.png"
+sha256 = "24c1b191dc9dfbc9ca1c1f7a0a3fadc2309796f24fd2221d2a7fa1025d2e50d8"
+resolution = [1920, 802]
+[[wallpaper]]
+file = "liquid1.jpg"
+title = "Liquid1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/liquid1.jpg"
+sha256 = "22bc0a763ae5b1dbb8c31a7021677e48913483c64c8ef52fce0538fa36feb950"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "liquid2.jpg"
+title = "Liquid2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/liquid2.jpg"
+sha256 = "56b79e8c31a41f271f856ece34efd8c8853188d87a2eea290ffcf5bd42b41ab1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "lofoten-sundown.jpg"
+title = "Lofoten sundown"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/lofoten-sundown.jpg"
+sha256 = "b60670d5f8ae4400b3ec09049114905901b3bfc8d6ad08b5a43fb7b71aea3241"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "lofoten1.jpg"
+title = "Lofoten1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/lofoten1.jpg"
+sha256 = "bd9e16f887c0fcbe705b78ea76f3184bf2891cf0a5cecd517395de6cc1ad143c"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "lofoten2.jpg"
+title = "Lofoten2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/lofoten2.jpg"
+sha256 = "ec6234014c9ea01cdf34e11ba5027b62559180cff62923c442133f86da4f58fc"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "midnight-reflections-moonlit-sea.jpg"
+title = "Midnight reflections moonlit sea"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/midnight-reflections-moonlit-sea.jpg"
+sha256 = "5cbf927a3f5799adb0e1efbd8fd285c9f22d12e19fc26b576adef8db07d4ff22"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "minimal-beton-building.jpg"
+title = "Minimal beton building"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/minimal-beton-building.jpg"
+sha256 = "5c6682880b2a40ebaff929029658dcfd2e7967d20504979e9d36de58b8062041"
+resolution = [3360, 1440]
+[[wallpaper]]
+file = "molten_veins.png"
+title = "Molten veins"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/molten_veins.png"
+sha256 = "027f5e227cb4fc1275841d85ad36cd9ff1dddc2f3bf107d59125230bb3879916"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "moonlight.jpg"
+title = "Moonlight"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/moonlight.jpg"
+sha256 = "e5c264ae79cf569014501a6e70868b206b1388d4aebdfb0432485130be145d2d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mountain-lake.jpg"
+title = "Mountain lake"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-lake.jpg"
+sha256 = "0d8ad5e615f5d298f27ea2618b797993657e98039633e6348db94389973dcbfc"
+resolution = [3200, 1829]
+[[wallpaper]]
+file = "mountain-landscape.jpg"
+title = "Mountain landscape"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-landscape.jpg"
+sha256 = "c04b1c3f65ee83a1be56a55114004884b7d1a7dcba53bf548f8d1e7b27cffc8d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mountain-range-during-sunrise.jpg"
+title = "Mountain range during sunrise"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-range-during-sunrise.jpg"
+sha256 = "87a2f986efc3a0fa2366d3c04f2a4ae76dca386d890f18d819f83eaf29633be0"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mountain-snow-minima.jpg"
+title = "Mountain snow minima"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-snow-minima.jpg"
+sha256 = "a053a8c761ee6ae3f01814fb932977fe909b27615bbb57625522e450f249f9dd"
+resolution = [3000, 1688]
+[[wallpaper]]
+file = "mountain-sunrise.jpg"
+title = "Mountain sunrise"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-sunrise.jpg"
+sha256 = "8e19562b5566d5fa425e46c91ef15c7b38a97b532c8b55755474a2adb323c849"
+resolution = [5824, 3264]
+[[wallpaper]]
+file = "mountain-winter3.jpg"
+title = "Mountain winter3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-winter3.jpg"
+sha256 = "f008a930c86112bb2a01521ebc9dc4f9989ee36c0cb70541e8afa3088dadaac1"
+resolution = [2732, 2732]
+[[wallpaper]]
+file = "mountain-with-snow.jpg"
+title = "Mountain with snow"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain-with-snow.jpg"
+sha256 = "2d3329d12305c1bc04d0967e7ae0b78e97e48ba35ff4a3dc5f72a73ae098d5e0"
+resolution = [2400, 1600]
+[[wallpaper]]
+file = "mountain_range.jpg"
+title = "Mountain range"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain_range.jpg"
+sha256 = "bf15a4c1cd2d7f665274580c1d67f886d830f5579c95d4b6da2292be9c9d3877"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mountain_view.jpg"
+title = "Mountain view"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mountain_view.jpg"
+sha256 = "7db8c74569fd46c6e8514d373f9f98e8e61073c73db5e332388b0f3e871e6d9e"
+resolution = [5472, 3648]
+[[wallpaper]]
+file = "muscle-car-ice-road-red-moon.jpg"
+title = "Muscle car ice road red moon"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/muscle-car-ice-road-red-moon.jpg"
+sha256 = "ae756619f5c4d2497cf2b4f2b835268c6c13cb136e553616ac6f1f6e2e910b6f"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "mystical-night-in-town.jpg"
+title = "Mystical night in town"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/mystical-night-in-town.jpg"
+sha256 = "38cd5937a843cbc3ad240198821f583701ed89756ad0a9557649954f4df069b1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "nature-quiet-masterpiece.jpg"
+title = "Nature quiet masterpiece"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/nature-quiet-masterpiece.jpg"
+sha256 = "03d3c1f5fb330ed5c16c309d957972d857f326fbb094d8ece0e2259dc663ab6b"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "nature.jpg"
+title = "Nature"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/nature.jpg"
+sha256 = "17210de47fd2aa72d6143b77b01e62dc5b4f027030b1226121622a269ea54cb7"
+resolution = [5120, 2880]
+[[wallpaper]]
+file = "natures-mountain-waters.jpg"
+title = "Natures mountain waters"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/natures-mountain-waters.jpg"
+sha256 = "7c3462eb03d579690449d5e2b747338e008a000d0c937e50035918e76ebbbc36"
+resolution = [2560, 1707]
+[[wallpaper]]
+file = "neon_car.jpg"
+title = "Neon car"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/neon_car.jpg"
+sha256 = "0dd36b6a0f38137d496004b15132acafbde0e5f2ae34647a479abb2a6aa2b5ed"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "neon_office.jpg"
+title = "Neon office"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/neon_office.jpg"
+sha256 = "ad4530b9f4f3ddf3e6f0a4bed90e0dfb8a250382e377fe564014e15a33de7852"
+resolution = [2049, 1025]
+[[wallpaper]]
+file = "new-worlds.png"
+title = "New worlds"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/new-worlds.png"
+sha256 = "1363a769fefa5592a199fa4f64be5f1ebef0f94987e1196e9a0152e1745d2a40"
+resolution = [3948, 2160]
+[[wallpaper]]
+file = "night_city.jpg"
+title = "Night city"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/night_city.jpg"
+sha256 = "605ada8115bbac54e9a96ef11747ba6d1b16c620370f03486b97fe2f891d5e5c"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "no-mans-land.jpg"
+title = "No mans land"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/no-mans-land.jpg"
+sha256 = "bec7ef07f42f04110291d90a34f0212f75be51715bdf8d08c7a7da82d2fe1ddb"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "nordwall3.jpg"
+title = "Nordwall3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/nordwall3.jpg"
+sha256 = "19074bbf935bb6ef60425132e875430b0621cfc38efa5ac4329ee57bd8d8de68"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "northern-night.jpg"
+title = "Northern night"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/northern-night.jpg"
+sha256 = "f9fbcf71762ef269673043ffafd65d0a19b871949d3eca120299c75445d45ae3"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "onyx-flow.png"
+title = "Onyx flow"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/onyx-flow.png"
+sha256 = "da4cd7fe4581c55196b16ea6a0e76facf3d059a8d3ab7271a6504a724d4d1d2f"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "orange-desert.jpg"
+title = "Orange desert"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/orange-desert.jpg"
+sha256 = "aec3beb3442be2fb5a2a13bdf20b3746f211d1f26832fd665837fc7e722aac5e"
+resolution = [2560, 1440]
+[[wallpaper]]
+file = "peak-in-the-clouds.jpg"
+title = "Peak in the clouds"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/peak-in-the-clouds.jpg"
+sha256 = "6d8a8c01bc1f60cfa9eb9d5164ea4d8d53e7fd0857e3edc4ee53fc2d897b02cc"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "retro-race.jpg"
+title = "Retro race"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/retro-race.jpg"
+sha256 = "f8ce335d55ef2a7fc8ea6647d5989556df117880ce88846df05a31c355de3035"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "robot-home.png"
+title = "Robot home"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/robot-home.png"
+sha256 = "7427ae12f29b12e144ccea15acbb7d1b20df7453c52c8ae4b928a2973e3f4bbf"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "room-dark.png"
+title = "Room dark"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/room-dark.png"
+sha256 = "c384cdeac50549d94585bde5ea10eda05704bdcd3acc18a232eeeba34927393b"
+resolution = [3360, 1440]
+[[wallpaper]]
+file = "room1-sunset.png"
+title = "Room1 sunset"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/room1-sunset.png"
+sha256 = "4d7444895969bb0a50ee53da6f8bc9c11a4e6fd0ea8216a18a2a91d734d8e07d"
+resolution = [2912, 1632]
+[[wallpaper]]
+file = "sea1.jpg"
+title = "Sea1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sea1.jpg"
+sha256 = "4eec53a4a0fbc753f596904a8ddad83d5fbf01ca1dfa8d05ff4b767d4adfd43a"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sea2-waves.jpg"
+title = "Sea2 waves"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sea2-waves.jpg"
+sha256 = "e1151ea4eba0108798be6eb3b9e2a488c5bceda0a9ac7a08bd572b6d846722a9"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sky1.jpg"
+title = "Sky1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sky1.jpg"
+sha256 = "66cd45590863c0964f06a045272942a940bbbabb12416c93ef3ad600064705d5"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sky2.jpeg"
+title = "Sky2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sky2.jpeg"
+sha256 = "86796bf6fdd1bd22b6f7a96b3b64db1b4f512a307ff56d16432039767dae0b5c"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "snowcapped-mountains.jpg"
+title = "Snowcapped mountains"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/snowcapped-mountains.jpg"
+sha256 = "19c29e7af97d254cc39f369ecf1520a9153bc67b32b9d5cce3fe1fa0eb7c18b1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "snowy-peace.png"
+title = "Snowy peace"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/snowy-peace.png"
+sha256 = "fe7fa88721b4b76b47aa74f1f4d446ae0ed204e39442a05016acecac1b0356cc"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "space-age-adventures.png"
+title = "Space age adventures"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/space-age-adventures.png"
+sha256 = "960d82e2e3be621abfb185a52364e3209fcd50c2cdf1f53d26b460fba2637c7d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "space-with-ships.png"
+title = "Space with ships"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/space-with-ships.png"
+sha256 = "9e81fc69d1aee4e470896b6c6ac63686f2de7ad528aa7d49a6077eec2498595e"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "space1.jpg"
+title = "Space1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/space1.jpg"
+sha256 = "19b22a4890f39dcf1ca05833f7a87fd8ae343c9b73501a11d2a6904bb697fe82"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "space2.jpg"
+title = "Space2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/space2.jpg"
+sha256 = "b96d1babed54aad26dde7465c9e2bb0e30cf296feb010d5f0fd6230a3fb05063"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "space3.jpg"
+title = "Space3"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/space3.jpg"
+sha256 = "6e227007adb98e944a1d7b9b14f9eedbae22489d41b21b96862c5466bbe2e58d"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "spaceship1.jpg"
+title = "Spaceship1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/spaceship1.jpg"
+sha256 = "a625c5699772447f835b3af7ae2bf6f26fe1a3207174c874a0e21959395991fc"
+resolution = [2500, 1406]
+[[wallpaper]]
+file = "spaceship2.jpg"
+title = "Spaceship2"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/spaceship2.jpg"
+sha256 = "650b2bdb0f2fcf03eb5af694eec004ebd77ca2e7ada707bc9e404a7881b1e7c5"
+resolution = [2750, 1546]
+[[wallpaper]]
+file = "spaceshuttle.png"
+title = "Spaceshuttle"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/spaceshuttle.png"
+sha256 = "583d86d3e25adde1b984bda820ff3e3081fde3686f9645a3cdb7c02579dba64e"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sparkling-crystals.jpg"
+title = "Sparkling crystals"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sparkling-crystals.jpg"
+sha256 = "465b1fbf61928e292a8838b98132a6fd51f7df3c93dcd81f920bb80c10e7cda2"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "spirited-away1.jpg"
+title = "Spirited away1"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/spirited-away1.jpg"
+sha256 = "7adb08be8481752e1ac64ba26dab482f410577491f968df3974c9c9f54581bde"
+resolution = [4961, 2869]
+[[wallpaper]]
+file = "sundown_mountain.jpg"
+title = "Sundown mountain"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sundown_mountain.jpg"
+sha256 = "4a5db8c6363fb94d26f0d77b2a80f819f6577f1acf3b1f45a6e1abc13a74b45e"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sunset-10.jpg"
+title = "Sunset 10"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset-10.jpg"
+sha256 = "3516afdb89f0c133a73fb54f426b422605d7ce30851eb70841893a35553e042e"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sunset-drive-forest.jpg"
+title = "Sunset drive forest"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset-drive-forest.jpg"
+sha256 = "30c8d79a83f4a83740f7bda7779ed1a8dca2b1419e3fe31f146b6d52bdc824c1"
+resolution = [1920, 1080]
+[[wallpaper]]
+file = "sunset-in-thick-forest.jpg"
+title = "Sunset in thick forest"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset-in-thick-forest.jpg"
+sha256 = "9b29b5b16e2bb6156d5f61398d2d559a5519410ce892e0bebb185a5432eb42f1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "sunset-mountain-beautiful.jpg"
+title = "Sunset mountain beautiful"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/sunset-mountain-beautiful.jpg"
+sha256 = "ca65cb7c41adad16e54c2ea6d92a6491a3d3b68fe6d54e3011044f5d17948cc1"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "symmetry-in-the-stillness.jpg"
+title = "Symmetry in the stillness"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/symmetry-in-the-stillness.jpg"
+sha256 = "684b3adacb2fec762b8f3db1c1368252e79f7ea47bac03c3d8040c6f3d687668"
+resolution = [3840, 2160]
+[[wallpaper]]
+file = "tree.jpg"
+title = "Tree"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/tree.jpg"
+sha256 = "bff7475633a257d85ee295efb4a3a97f3dc06ab086b6717bb94bb04124786726"
+resolution = [1920, 1280]
+[[wallpaper]]
+file = "vintage-ascent.jpg"
+title = "Vintage ascent"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/vintage-ascent.jpg"
+sha256 = "53b595ea741a514a3b39a697e62b04580273d9f64190fa7c71bf1b635326173b"
+resolution = [2900, 1657]
+[[wallpaper]]
+file = "vulcan.jpg"
+title = "Vulcan"
+artist = "Unknown (ML4W collection)"
+license = "all-rights-reserved"
+license_detail = "© original authors — gathered by ML4W from wallpaper sites; the repository's GPL-2.0 does not cover them"
+source = "https://github.com/mylinuxforwork/wallpaper"
+download = "https://raw.githubusercontent.com/llawn/ml4w/main/vulcan.jpg"
+sha256 = "e0e44a03a38eb2c29524361a1cc7a7bdda4e52730876f66803eb826c8a68908a"
+resolution = [2900, 1625]
